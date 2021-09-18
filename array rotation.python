@@ -1,0 +1,5 @@
+leftRotate(arr [], d, n)
+start
+  For i = 0 to i < d
+    Left rotate all elements of arr[] by one
+end
